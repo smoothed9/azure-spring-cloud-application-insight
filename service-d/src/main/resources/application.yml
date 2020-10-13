@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service-d
+server:
+  port: 8083
