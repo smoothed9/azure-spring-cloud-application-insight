@@ -1,4 +1,4 @@
-package com.sudeep.azure.springcloud.servicea;
+package com.sudeep.azure.springcloud.serviced;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
