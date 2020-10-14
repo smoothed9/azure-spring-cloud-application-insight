@@ -1,4 +1,4 @@
-#Gateway Service
+# Gateway Service
 This service will act as the entry point. It'll invoke message-service, data-service and service-d.
 
 The service uses Spring Cloud Loadbalancer with Eureka Client to connect to other services and Spring Cloud Sleuth for Distributed Tracing.
