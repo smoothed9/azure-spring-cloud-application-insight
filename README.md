@@ -11,4 +11,4 @@ This repository contains 5 services that interact with one another. These are si
 
 Each service contains a README.
 
-More details about this topic is covered in my [Medium post]()  
+More details about this topic is covered in my [Medium post](https://medium.com/@smoothed9/distributed-tracing-with-azure-spring-cloud-and-azure-application-insights-bc6dcd84e9a2)  
